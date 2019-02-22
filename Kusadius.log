@@ -1,0 +1,325 @@
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+2015-05-17 12:53:27.977 Kusadius.out[3314:147869] INFO: Model factory(Cursor) 1
+2015-05-17 12:53:27.978 Kusadius.out[3314:147869] INFO: Model factory 2
+2015-05-17 12:53:27.978 Kusadius.out[3314:147869] INFO: Model factory 3
+2015-05-17 12:53:27.979 Kusadius.out[3314:147869] INFO: Cursor 0.000,0.000 - id:80.1.256.0
+2015-05-17 12:53:27.979 Kusadius.out[3314:147869] INFO: frame: 1, now state: title
+2015-05-17 12:53:28.005 Kusadius.out[3314:147869] INFO: Cursor 0.000,0.000 - id:80.1.256.0
+2015-05-17 12:53:28.006 Kusadius.out[3314:147869] INFO: frame: 2, now state: title
+2015-05-17 12:53:28.025 Kusadius.out[3314:147869] INFO: Cursor 0.000,0.000 - id:80.1.256.0
+2015-05-17 12:53:28.026 Kusadius.out[3314:147869] INFO: frame: 3, now state: title
+2015-05-17 12:53:28.041 Kusadius.out[3314:147869] INFO: Cursor 0.000,0.000 - id:80.1.256.0
+2015-05-17 12:53:28.041 Kusadius.out[3314:147869] INFO: frame: 4, now state: title
+2015-05-17 12:53:28.057 Kusadius.out[3314:147869] INFO: Cursor 0.000,0.000 - id:80.1.256.0
+2015-05-17 12:53:28.058 Kusadius.out[3314:147869] INFO: frame: 5, now state: title
+2015-05-17 12:53:28.074 Kusadius.out[3314:147869] INFO: Cursor 0.000,0.000 - id:80.1.256.0
+2015-05-17 12:53:28.074 Kusadius.out[3314:147869] INFO: frame: 6, now state: title
+2015-05-17 12:53:28.090 Kusadius.out[3314:147869] INFO: Cursor 0.000,0.000 - id:80.1.256.0
+2015-05-17 12:53:28.090 Kusadius.out[3314:147869] INFO: frame: 7, now state: title
+2015-05-17 12:53:28.107 Kusadius.out[3314:147869] INFO: Cursor 0.000,0.000 - id:80.1.256.0
+2015-05-17 12:53:28.107 Kusadius.out[3314:147869] INFO: frame: 8, now state: title
+2015-05-17 12:53:28.123 Kusadius.out[3314:147869] INFO: Cursor 0.000,0.000 - id:80.1.256.0
+2015-05-17 12:53:28.123 Kusadius.out[3314:147869] INFO: frame: 9, now state: title
+2015-05-17 12:53:28.139 Kusadius.out[3314:147869] INFO: Cursor 0.000,0.000 - id:80.1.256.0
+2015-05-17 12:53:28.140 Kusadius.out[3314:147869] INFO: frame: 10, now state: title
+2015-05-17 12:53:28.157 Kusadius.out[3314:147869] INFO: Cursor 0.000,0.000 - id:80.1.256.0
+2015-05-17 12:53:28.157 Kusadius.out[3314:147869] INFO: frame: 11, now state: title
+2015-05-17 12:53:28.173 Kusadius.out[3314:147869] INFO: Cursor 0.000,0.000 - id:80.1.256.0
+2015-05-17 12:53:28.173 Kusadius.out[3314:147869] INFO: frame: 12, now state: title
+2015-05-17 12:53:28.190 Kusadius.out[3314:147869] INFO: Cursor 0.000,0.000 - id:80.1.256.0
+2015-05-17 12:53:28.190 Kusadius.out[3314:147869] INFO: frame: 13, now state: title
+2015-05-17 12:53:28.206 Kusadius.out[3314:147869] INFO: Model factory(Player) 1
+2015-05-17 12:53:28.206 Kusadius.out[3314:147869] INFO: Model factory(Player) 2
+2015-05-17 12:53:28.207 Kusadius.out[3314:147869] INFO: frame: 1, now state: play
+2015-05-17 12:53:28.223 Kusadius.out[3314:147869] INFO: frame: 2, now state: play
+2015-05-17 12:53:28.239 Kusadius.out[3314:147869] INFO: frame: 3, now state: play
+2015-05-17 12:53:28.255 Kusadius.out[3314:147869] INFO: frame: 4, now state: play
+2015-05-17 12:53:28.271 Kusadius.out[3314:147869] INFO: frame: 5, now state: play
+2015-05-17 12:53:28.288 Kusadius.out[3314:147869] INFO: frame: 6, now state: play
+2015-05-17 12:53:28.304 Kusadius.out[3314:147869] INFO: frame: 7, now state: play
+2015-05-17 12:53:28.321 Kusadius.out[3314:147869] INFO: frame: 8, now state: play
+2015-05-17 12:53:28.338 Kusadius.out[3314:147869] INFO: frame: 9, now state: play
+2015-05-17 12:53:28.355 Kusadius.out[3314:147869] INFO: frame: 10, now state: play
+2015-05-17 12:53:28.373 Kusadius.out[3314:147869] INFO: frame: 11, now state: play
+2015-05-17 12:53:28.389 Kusadius.out[3314:147869] INFO: frame: 12, now state: play
+2015-05-17 12:53:28.407 Kusadius.out[3314:147869] INFO: frame: 13, now state: play
+2015-05-17 12:53:28.424 Kusadius.out[3314:147869] INFO: frame: 14, now state: play
+2015-05-17 12:53:28.440 Kusadius.out[3314:147869] INFO: frame: 15, now state: play
+2015-05-17 12:53:28.456 Kusadius.out[3314:147869] INFO: frame: 16, now state: play
+2015-05-17 12:53:28.473 Kusadius.out[3314:147869] INFO: frame: 17, now state: play
+2015-05-17 12:53:28.490 Kusadius.out[3314:147869] INFO: frame: 18, now state: play
+2015-05-17 12:53:28.506 Kusadius.out[3314:147869] INFO: frame: 19, now state: play
+2015-05-17 12:53:28.522 Kusadius.out[3314:147869] INFO: frame: 20, now state: play
+2015-05-17 12:53:28.538 Kusadius.out[3314:147869] INFO: frame: 21, now state: play
+2015-05-17 12:53:28.554 Kusadius.out[3314:147869] INFO: frame: 22, now state: play
+2015-05-17 12:53:28.572 Kusadius.out[3314:147869] INFO: frame: 23, now state: play
+2015-05-17 12:53:28.588 Kusadius.out[3314:147869] INFO: frame: 24, now state: play
+2015-05-17 12:53:28.605 Kusadius.out[3314:147869] INFO: frame: 25, now state: play
+2015-05-17 12:53:28.622 Kusadius.out[3314:147869] INFO: frame: 26, now state: play
+2015-05-17 12:53:28.638 Kusadius.out[3314:147869] INFO: frame: 27, now state: play
+2015-05-17 12:53:28.655 Kusadius.out[3314:147869] INFO: frame: 28, now state: play
+2015-05-17 12:53:28.671 Kusadius.out[3314:147869] INFO: frame: 29, now state: play
+2015-05-17 12:53:28.687 Kusadius.out[3314:147869] INFO: frame: 30, now state: play
+2015-05-17 12:53:28.704 Kusadius.out[3314:147869] INFO: frame: 31, now state: play
+2015-05-17 12:53:28.722 Kusadius.out[3314:147869] INFO: Model factory(Enemy) 3
+2015-05-17 12:53:28.722 Kusadius.out[3314:147869] INFO: Model factory(Enemy) 4
+2015-05-17 12:53:28.722 Kusadius.out[3314:147869] INFO: frame: 32, now state: play
+2015-05-17 12:53:28.738 Kusadius.out[3314:147869] INFO: frame: 33, now state: play
+2015-05-17 12:53:28.754 Kusadius.out[3314:147869] INFO: frame: 34, now state: play
+2015-05-17 12:53:28.772 Kusadius.out[3314:147869] INFO: frame: 35, now state: play
+2015-05-17 12:53:28.787 Kusadius.out[3314:147869] INFO: frame: 36, now state: play
+2015-05-17 12:53:28.804 Kusadius.out[3314:147869] INFO: frame: 37, now state: play
+2015-05-17 12:53:28.820 Kusadius.out[3314:147869] INFO: frame: 38, now state: play
+2015-05-17 12:53:28.838 Kusadius.out[3314:147869] INFO: frame: 39, now state: play
+2015-05-17 12:53:28.855 Kusadius.out[3314:147869] INFO: frame: 40, now state: play
+2015-05-17 12:53:28.870 Kusadius.out[3314:147869] INFO: frame: 41, now state: play
+2015-05-17 12:53:28.887 Kusadius.out[3314:147869] INFO: frame: 42, now state: play
+2015-05-17 12:53:28.905 Kusadius.out[3314:147869] INFO: frame: 43, now state: play
+2015-05-17 12:53:28.922 Kusadius.out[3314:147869] INFO: frame: 44, now state: play
+2015-05-17 12:53:28.940 Kusadius.out[3314:147869] INFO: frame: 45, now state: play
+2015-05-17 12:53:28.956 Kusadius.out[3314:147869] INFO: frame: 46, now state: play
+2015-05-17 12:53:28.973 Kusadius.out[3314:147869] INFO: frame: 47, now state: play
+2015-05-17 12:53:28.989 Kusadius.out[3314:147869] INFO: frame: 48, now state: play
+2015-05-17 12:53:29.006 Kusadius.out[3314:147869] INFO: frame: 49, now state: play
+2015-05-17 12:53:29.024 Kusadius.out[3314:147869] INFO: frame: 50, now state: play
+2015-05-17 12:53:29.040 Kusadius.out[3314:147869] INFO: frame: 51, now state: play
+2015-05-17 12:53:29.058 Kusadius.out[3314:147869] INFO: frame: 52, now state: play
+2015-05-17 12:53:29.073 Kusadius.out[3314:147869] INFO: frame: 53, now state: play
+2015-05-17 12:53:29.090 Kusadius.out[3314:147869] INFO: frame: 54, now state: play
+2015-05-17 12:53:29.107 Kusadius.out[3314:147869] INFO: frame: 55, now state: play
+2015-05-17 12:53:29.124 Kusadius.out[3314:147869] INFO: frame: 56, now state: play
+2015-05-17 12:53:29.141 Kusadius.out[3314:147869] INFO: frame: 57, now state: play
+2015-05-17 12:53:29.158 Kusadius.out[3314:147869] INFO: frame: 58, now state: play
+2015-05-17 12:53:29.176 Kusadius.out[3314:147869] INFO: frame: 59, now state: play
+2015-05-17 12:53:29.192 Kusadius.out[3314:147869] INFO: frame: 60, now state: play
+2015-05-17 12:53:29.208 Kusadius.out[3314:147869] INFO: frame: 61, now state: play
+2015-05-17 12:53:29.225 Kusadius.out[3314:147869] INFO: frame: 62, now state: play
+2015-05-17 12:53:29.243 Kusadius.out[3314:147869] INFO: Model factory(Enemy) 25
+2015-05-17 12:53:29.243 Kusadius.out[3314:147869] INFO: Model factory(Enemy) 26
+2015-05-17 12:53:29.243 Kusadius.out[3314:147869] INFO: frame: 63, now state: play
+2015-05-17 12:53:29.259 Kusadius.out[3314:147869] INFO: frame: 64, now state: play
+2015-05-17 12:53:29.276 Kusadius.out[3314:147869] INFO: frame: 65, now state: play
+2015-05-17 12:53:29.293 Kusadius.out[3314:147869] INFO: frame: 66, now state: play
+2015-05-17 12:53:29.309 Kusadius.out[3314:147869] INFO: frame: 67, now state: play
+2015-05-17 12:53:29.326 Kusadius.out[3314:147869] INFO: frame: 68, now state: play
+2015-05-17 12:53:29.343 Kusadius.out[3314:147869] INFO: frame: 69, now state: play
+2015-05-17 12:53:29.360 Kusadius.out[3314:147869] INFO: frame: 70, now state: play
+2015-05-17 12:53:29.375 Kusadius.out[3314:147869] INFO: frame: 71, now state: play
+2015-05-17 12:53:29.392 Kusadius.out[3314:147869] INFO: frame: 72, now state: play
+2015-05-17 12:53:29.408 Kusadius.out[3314:147869] INFO: frame: 73, now state: play
+2015-05-17 12:53:29.425 Kusadius.out[3314:147869] INFO: frame: 74, now state: play
+2015-05-17 12:53:29.440 Kusadius.out[3314:147869] INFO: frame: 75, now state: play
+2015-05-17 12:53:29.457 Kusadius.out[3314:147869] INFO: frame: 76, now state: play
+2015-05-17 12:53:29.473 Kusadius.out[3314:147869] INFO: frame: 77, now state: play
+2015-05-17 12:53:29.490 Kusadius.out[3314:147869] INFO: frame: 78, now state: play
+2015-05-17 12:53:29.507 Kusadius.out[3314:147869] INFO: frame: 79, now state: play
+2015-05-17 12:53:29.523 Kusadius.out[3314:147869] INFO: frame: 80, now state: play
+2015-05-17 12:53:29.539 Kusadius.out[3314:147869] INFO: frame: 81, now state: play
+2015-05-17 12:53:29.556 Kusadius.out[3314:147869] INFO: frame: 82, now state: play
+2015-05-17 12:53:29.572 Kusadius.out[3314:147869] INFO: frame: 83, now state: play
+2015-05-17 12:53:29.588 Kusadius.out[3314:147869] INFO: frame: 84, now state: play
+2015-05-17 12:53:29.605 Kusadius.out[3314:147869] INFO: frame: 85, now state: play
+2015-05-17 12:53:29.622 Kusadius.out[3314:147869] INFO: frame: 86, now state: play
+2015-05-17 12:53:29.640 Kusadius.out[3314:147869] INFO: frame: 87, now state: play
+2015-05-17 12:53:29.656 Kusadius.out[3314:147869] INFO: frame: 88, now state: play
+2015-05-17 12:53:29.672 Kusadius.out[3314:147869] INFO: frame: 89, now state: play
+2015-05-17 12:53:29.690 Kusadius.out[3314:147869] INFO: frame: 90, now state: play
+2015-05-17 12:53:29.705 Kusadius.out[3314:147869] INFO: frame: 91, now state: play
+2015-05-17 12:53:29.723 Kusadius.out[3314:147869] INFO: frame: 92, now state: play
+2015-05-17 12:53:29.739 Kusadius.out[3314:147869] INFO: frame: 93, now state: play
+2015-05-17 12:53:29.756 Kusadius.out[3314:147869] INFO: Model factory(Enemy) 33
+2015-05-17 12:53:29.756 Kusadius.out[3314:147869] INFO: Model factory(Enemy) 34
+2015-05-17 12:53:29.756 Kusadius.out[3314:147869] INFO: frame: 94, now state: play
+2015-05-17 12:53:29.773 Kusadius.out[3314:147869] INFO: frame: 95, now state: play
+2015-05-17 12:53:29.790 Kusadius.out[3314:147869] INFO: frame: 96, now state: play
+2015-05-17 12:53:29.807 Kusadius.out[3314:147869] INFO: frame: 97, now state: play
+2015-05-17 12:53:29.823 Kusadius.out[3314:147869] INFO: frame: 98, now state: play
+2015-05-17 12:53:29.840 Kusadius.out[3314:147869] INFO: frame: 99, now state: play
+2015-05-17 12:53:29.857 Kusadius.out[3314:147869] INFO: frame: 100, now state: play
+2015-05-17 12:53:29.873 Kusadius.out[3314:147869] INFO: frame: 101, now state: play
+2015-05-17 12:53:29.889 Kusadius.out[3314:147869] INFO: frame: 102, now state: play
+2015-05-17 12:53:29.905 Kusadius.out[3314:147869] INFO: frame: 103, now state: play
+2015-05-17 12:53:29.922 Kusadius.out[3314:147869] INFO: frame: 104, now state: play
+2015-05-17 12:53:29.938 Kusadius.out[3314:147869] INFO: frame: 105, now state: play
+2015-05-17 12:53:29.956 Kusadius.out[3314:147869] INFO: frame: 106, now state: play
+2015-05-17 12:53:29.972 Kusadius.out[3314:147869] INFO: frame: 107, now state: play
+2015-05-17 12:53:29.989 Kusadius.out[3314:147869] INFO: frame: 108, now state: play
+2015-05-17 12:53:30.006 Kusadius.out[3314:147869] INFO: frame: 109, now state: play
+2015-05-17 12:53:30.022 Kusadius.out[3314:147869] INFO: frame: 110, now state: play
+2015-05-17 12:53:30.039 Kusadius.out[3314:147869] INFO: frame: 111, now state: play
+2015-05-17 12:53:30.056 Kusadius.out[3314:147869] INFO: frame: 112, now state: play
+2015-05-17 12:53:30.071 Kusadius.out[3314:147869] INFO: frame: 113, now state: play
+2015-05-17 12:53:30.088 Kusadius.out[3314:147869] INFO: frame: 114, now state: play
+2015-05-17 12:53:30.104 Kusadius.out[3314:147869] INFO: frame: 115, now state: play
+2015-05-17 12:53:30.121 Kusadius.out[3314:147869] INFO: frame: 116, now state: play
+2015-05-17 12:53:30.138 Kusadius.out[3314:147869] INFO: frame: 117, now state: play
+2015-05-17 12:53:30.155 Kusadius.out[3314:147869] INFO: frame: 118, now state: play
+2015-05-17 12:53:30.172 Kusadius.out[3314:147869] INFO: frame: 119, now state: play
+2015-05-17 12:53:30.189 Kusadius.out[3314:147869] INFO: frame: 120, now state: play
+2015-05-17 12:53:30.206 Kusadius.out[3314:147869] INFO: frame: 121, now state: play
+2015-05-17 12:53:30.223 Kusadius.out[3314:147869] INFO: frame: 122, now state: play
+2015-05-17 12:53:30.241 Kusadius.out[3314:147869] INFO: frame: 123, now state: play
+2015-05-17 12:53:30.257 Kusadius.out[3314:147869] INFO: frame: 124, now state: play
+2015-05-17 12:53:30.273 Kusadius.out[3314:147869] INFO: Model factory(Enemy) 28
+2015-05-17 12:53:30.273 Kusadius.out[3314:147869] INFO: Model factory(Enemy) 29
+2015-05-17 12:53:30.274 Kusadius.out[3314:147869] INFO: frame: 125, now state: play
+2015-05-17 12:53:30.290 Kusadius.out[3314:147869] INFO: frame: 126, now state: play
+2015-05-17 12:53:30.307 Kusadius.out[3314:147869] INFO: frame: 127, now state: play
+2015-05-17 12:53:30.324 Kusadius.out[3314:147869] INFO: frame: 128, now state: play
+2015-05-17 12:53:30.342 Kusadius.out[3314:147869] INFO: frame: 129, now state: play
+2015-05-17 12:53:30.358 Kusadius.out[3314:147869] INFO: frame: 130, now state: play
+2015-05-17 12:53:30.376 Kusadius.out[3314:147869] INFO: frame: 131, now state: play
+2015-05-17 12:53:30.393 Kusadius.out[3314:147869] INFO: frame: 132, now state: play
+2015-05-17 12:53:30.408 Kusadius.out[3314:147869] INFO: frame: 133, now state: play
+2015-05-17 12:53:30.425 Kusadius.out[3314:147869] INFO: frame: 134, now state: play
+2015-05-17 12:53:30.441 Kusadius.out[3314:147869] INFO: frame: 135, now state: play
+2015-05-17 12:53:30.457 Kusadius.out[3314:147869] INFO: frame: 136, now state: play
+2015-05-17 12:53:30.474 Kusadius.out[3314:147869] INFO: frame: 137, now state: play
+2015-05-17 12:53:30.490 Kusadius.out[3314:147869] INFO: frame: 138, now state: play
+2015-05-17 12:53:30.507 Kusadius.out[3314:147869] INFO: frame: 139, now state: play
+2015-05-17 12:53:30.524 Kusadius.out[3314:147869] INFO: frame: 140, now state: play
+2015-05-17 12:53:30.541 Kusadius.out[3314:147869] INFO: frame: 141, now state: play
+2015-05-17 12:53:30.557 Kusadius.out[3314:147869] INFO: frame: 142, now state: play
+2015-05-17 12:53:30.575 Kusadius.out[3314:147869] INFO: frame: 143, now state: play
+2015-05-17 12:53:30.591 Kusadius.out[3314:147869] INFO: frame: 144, now state: play
+2015-05-17 12:53:30.608 Kusadius.out[3314:147869] INFO: frame: 145, now state: play
+2015-05-17 12:53:30.626 Kusadius.out[3314:147869] INFO: frame: 146, now state: play
+2015-05-17 12:53:30.643 Kusadius.out[3314:147869] INFO: frame: 147, now state: play
+2015-05-17 12:53:30.659 Kusadius.out[3314:147869] INFO: frame: 148, now state: play
+2015-05-17 12:53:30.676 Kusadius.out[3314:147869] INFO: frame: 149, now state: play
+2015-05-17 12:53:30.693 Kusadius.out[3314:147869] INFO: frame: 150, now state: play
+2015-05-17 12:53:30.710 Kusadius.out[3314:147869] INFO: frame: 151, now state: play
+2015-05-17 12:53:30.726 Kusadius.out[3314:147869] INFO: frame: 152, now state: play
+2015-05-17 12:53:30.744 Kusadius.out[3314:147869] INFO: frame: 153, now state: play
+2015-05-17 12:53:30.760 Kusadius.out[3314:147869] INFO: frame: 154, now state: play
+2015-05-17 12:53:30.776 Kusadius.out[3314:147869] INFO: frame: 155, now state: play
+2015-05-17 12:53:30.792 Kusadius.out[3314:147869] INFO: Model factory(Enemy) 32
+2015-05-17 12:53:30.792 Kusadius.out[3314:147869] INFO: Model factory(Enemy) 33
+2015-05-17 12:53:30.792 Kusadius.out[3314:147869] INFO: frame: 156, now state: play
+2015-05-17 12:53:30.808 Kusadius.out[3314:147869] INFO: frame: 157, now state: play
+2015-05-17 12:53:30.825 Kusadius.out[3314:147869] INFO: frame: 158, now state: play
+2015-05-17 12:53:30.842 Kusadius.out[3314:147869] INFO: frame: 159, now state: play
+2015-05-17 12:53:30.860 Kusadius.out[3314:147869] INFO: frame: 160, now state: play
+2015-05-17 12:53:30.875 Kusadius.out[3314:147869] INFO: frame: 161, now state: play
+2015-05-17 12:53:30.893 Kusadius.out[3314:147869] INFO: frame: 162, now state: play
+2015-05-17 12:53:30.909 Kusadius.out[3314:147869] INFO: frame: 163, now state: play
+2015-05-17 12:53:30.926 Kusadius.out[3314:147869] INFO: frame: 164, now state: play
+2015-05-17 12:53:30.942 Kusadius.out[3314:147869] INFO: frame: 165, now state: play
+2015-05-17 12:53:30.959 Kusadius.out[3314:147869] INFO: frame: 166, now state: play
+2015-05-17 12:53:30.975 Kusadius.out[3314:147869] INFO: frame: 167, now state: play
+2015-05-17 12:53:30.992 Kusadius.out[3314:147869] INFO: frame: 168, now state: play
+2015-05-17 12:53:31.008 Kusadius.out[3314:147869] INFO: frame: 169, now state: play
+2015-05-17 12:53:31.025 Kusadius.out[3314:147869] INFO: frame: 170, now state: play
+2015-05-17 12:53:31.042 Kusadius.out[3314:147869] INFO: frame: 171, now state: play
+2015-05-17 12:53:31.059 Kusadius.out[3314:147869] INFO: frame: 172, now state: play
+2015-05-17 12:53:31.076 Kusadius.out[3314:147869] INFO: frame: 173, now state: play
+2015-05-17 12:53:31.092 Kusadius.out[3314:147869] INFO: frame: 174, now state: play
+2015-05-17 12:53:31.110 Kusadius.out[3314:147869] INFO: frame: 175, now state: play
+2015-05-17 12:53:31.126 Kusadius.out[3314:147869] INFO: frame: 176, now state: play
+2015-05-17 12:53:31.143 Kusadius.out[3314:147869] INFO: frame: 177, now state: play
+2015-05-17 12:53:31.159 Kusadius.out[3314:147869] INFO: frame: 178, now state: play
+2015-05-17 12:53:31.177 Kusadius.out[3314:147869] INFO: frame: 179, now state: play
+2015-05-17 12:53:31.193 Kusadius.out[3314:147869] INFO: frame: 180, now state: play
+2015-05-17 12:53:31.211 Kusadius.out[3314:147869] INFO: frame: 181, now state: play
+2015-05-17 12:53:31.228 Kusadius.out[3314:147869] INFO: frame: 182, now state: play
+2015-05-17 12:53:31.244 Kusadius.out[3314:147869] INFO: frame: 183, now state: play
+2015-05-17 12:53:31.260 Kusadius.out[3314:147869] INFO: frame: 184, now state: play
+2015-05-17 12:53:31.277 Kusadius.out[3314:147869] INFO: frame: 185, now state: play
+2015-05-17 12:53:31.293 Kusadius.out[3314:147869] INFO: frame: 186, now state: play
+2015-05-17 12:53:31.310 Kusadius.out[3314:147869] INFO: Model factory(Enemy) 41
+2015-05-17 12:53:31.310 Kusadius.out[3314:147869] INFO: Model factory(Enemy) 42
+2015-05-17 12:53:31.310 Kusadius.out[3314:147869] INFO: frame: 187, now state: play
+2015-05-17 12:53:31.327 Kusadius.out[3314:147869] INFO: frame: 188, now state: play
+2015-05-17 12:53:31.344 Kusadius.out[3314:147869] INFO: frame: 189, now state: play
+2015-05-17 12:53:31.360 Kusadius.out[3314:147869] INFO: frame: 190, now state: play
+2015-05-17 12:53:31.378 Kusadius.out[3314:147869] INFO: frame: 191, now state: play
+2015-05-17 12:53:31.394 Kusadius.out[3314:147869] INFO: frame: 192, now state: play
+2015-05-17 12:53:31.411 Kusadius.out[3314:147869] INFO: frame: 193, now state: play
+2015-05-17 12:53:31.429 Kusadius.out[3314:147869] INFO: frame: 194, now state: play
+2015-05-17 12:53:31.446 Kusadius.out[3314:147869] INFO: frame: 195, now state: play
+2015-05-17 12:53:31.463 Kusadius.out[3314:147869] INFO: frame: 196, now state: play
+2015-05-17 12:53:31.480 Kusadius.out[3314:147869] INFO: frame: 197, now state: play
+2015-05-17 12:53:31.497 Kusadius.out[3314:147869] INFO: frame: 198, now state: play
+2015-05-17 12:53:31.514 Kusadius.out[3314:147869] INFO: frame: 199, now state: play
+2015-05-17 12:53:31.531 Kusadius.out[3314:147869] INFO: frame: 200, now state: play
+2015-05-17 12:53:31.548 Kusadius.out[3314:147869] INFO: frame: 201, now state: play
+2015-05-17 12:53:31.564 Kusadius.out[3314:147869] INFO: frame: 202, now state: play
+2015-05-17 12:53:31.581 Kusadius.out[3314:147869] INFO: frame: 203, now state: play
+2015-05-17 12:53:31.597 Kusadius.out[3314:147869] INFO: frame: 204, now state: play
+2015-05-17 12:53:31.613 Kusadius.out[3314:147869] INFO: frame: 205, now state: play
+2015-05-17 12:53:31.630 Kusadius.out[3314:147869] INFO: frame: 206, now state: play
+2015-05-17 12:53:31.647 Kusadius.out[3314:147869] INFO: frame: 207, now state: play
+2015-05-17 12:53:31.664 Kusadius.out[3314:147869] INFO: frame: 208, now state: play
+2015-05-17 12:53:31.681 Kusadius.out[3314:147869] INFO: frame: 209, now state: play
+2015-05-17 12:53:31.698 Kusadius.out[3314:147869] INFO: frame: 210, now state: play
+2015-05-17 12:53:31.716 Kusadius.out[3314:147869] INFO: frame: 211, now state: play
+2015-05-17 12:53:31.732 Kusadius.out[3314:147869] INFO: frame: 212, now state: play
+2015-05-17 12:53:31.749 Kusadius.out[3314:147869] INFO: frame: 213, now state: play
+2015-05-17 12:53:31.766 Kusadius.out[3314:147869] INFO: frame: 214, now state: play
+2015-05-17 12:53:31.783 Kusadius.out[3314:147869] INFO: frame: 215, now state: play
+2015-05-17 12:53:31.800 Kusadius.out[3314:147869] INFO: frame: 216, now state: play
+2015-05-17 12:53:31.816 Kusadius.out[3314:147869] INFO: frame: 217, now state: play
+2015-05-17 12:53:31.833 Kusadius.out[3314:147869] INFO: Model factory(Enemy) 48
+2015-05-17 12:53:31.833 Kusadius.out[3314:147869] INFO: Model factory(Enemy) 49
+2015-05-17 12:53:31.833 Kusadius.out[3314:147869] INFO: frame: 218, now state: play
+2015-05-17 12:53:31.849 Kusadius.out[3314:147869] INFO: frame: 219, now state: play
+2015-05-17 12:53:31.866 Kusadius.out[3314:147869] INFO: frame: 220, now state: play
+2015-05-17 12:53:31.883 Kusadius.out[3314:147869] INFO: frame: 221, now state: play
+2015-05-17 12:53:31.900 Kusadius.out[3314:147869] INFO: frame: 222, now state: play
+2015-05-17 12:53:31.917 Kusadius.out[3314:147869] INFO: frame: 223, now state: play
+2015-05-17 12:53:31.933 Kusadius.out[3314:147869] INFO: frame: 224, now state: play
+2015-05-17 12:53:31.948 Kusadius.out[3314:147869] INFO: frame: 225, now state: play
+2015-05-17 12:53:31.966 Kusadius.out[3314:147869] INFO: frame: 226, now state: play
+2015-05-17 12:53:31.982 Kusadius.out[3314:147869] INFO: frame: 227, now state: play
+2015-05-17 12:53:31.998 Kusadius.out[3314:147869] INFO: frame: 228, now state: play
+2015-05-17 12:53:32.015 Kusadius.out[3314:147869] INFO: frame: 229, now state: play
+2015-05-17 12:53:32.031 Kusadius.out[3314:147869] INFO: frame: 230, now state: play
+2015-05-17 12:53:32.048 Kusadius.out[3314:147869] INFO: frame: 231, now state: play
+2015-05-17 12:53:32.065 Kusadius.out[3314:147869] INFO: frame: 232, now state: play
+2015-05-17 12:53:32.082 Kusadius.out[3314:147869] INFO: frame: 233, now state: play
+2015-05-17 12:53:32.100 Kusadius.out[3314:147869] INFO: frame: 234, now state: play
+2015-05-17 12:53:32.117 Kusadius.out[3314:147869] INFO: frame: 235, now state: play
+2015-05-17 12:53:32.134 Kusadius.out[3314:147869] INFO: frame: 236, now state: play
+2015-05-17 12:53:32.151 Kusadius.out[3314:147869] INFO: frame: 237, now state: play
+2015-05-17 12:53:32.167 Kusadius.out[3314:147869] INFO: frame: 238, now state: play
+2015-05-17 12:53:32.184 Kusadius.out[3314:147869] INFO: frame: 239, now state: play
+2015-05-17 12:53:32.201 Kusadius.out[3314:147869] INFO: frame: 240, now state: play
+2015-05-17 12:53:32.216 Kusadius.out[3314:147869] INFO: frame: 241, now state: play
+2015-05-17 12:53:32.233 Kusadius.out[3314:147869] INFO: frame: 242, now state: play
+2015-05-17 12:53:32.250 Kusadius.out[3314:147869] INFO: frame: 243, now state: play
+2015-05-17 12:53:32.266 Kusadius.out[3314:147869] INFO: frame: 244, now state: play
+2015-05-17 12:53:32.283 Kusadius.out[3314:147869] INFO: frame: 245, now state: play
+2015-05-17 12:53:32.300 Kusadius.out[3314:147869] INFO: frame: 246, now state: play
+2015-05-17 12:53:32.316 Kusadius.out[3314:147869] INFO: frame: 247, now state: play
+2015-05-17 12:53:32.332 Kusadius.out[3314:147869] INFO: frame: 248, now state: play
+2015-05-17 12:53:32.349 Kusadius.out[3314:147869] INFO: Model factory(Enemy) 30
+2015-05-17 12:53:32.349 Kusadius.out[3314:147869] INFO: Model factory(Enemy) 31
+2015-05-17 12:53:32.349 Kusadius.out[3314:147869] INFO: frame: 249, now state: play
+2015-05-17 12:53:32.365 Kusadius.out[3314:147869] INFO: frame: 250, now state: play
+2015-05-17 12:53:32.382 Kusadius.out[3314:147869] INFO: frame: 251, now state: play
+2015-05-17 12:53:32.399 Kusadius.out[3314:147869] INFO: frame: 252, now state: play
+2015-05-17 12:53:32.416 Kusadius.out[3314:147869] INFO: frame: 253, now state: play
+2015-05-17 12:53:32.433 Kusadius.out[3314:147869] INFO: frame: 254, now state: play
+2015-05-17 12:53:32.450 Kusadius.out[3314:147869] INFO: frame: 255, now state: play
+2015-05-17 12:53:32.467 Kusadius.out[3314:147869] INFO: frame: 256, now state: play
+2015-05-17 12:53:32.483 Kusadius.out[3314:147869] INFO: frame: 257, now state: play
+2015-05-17 12:53:32.500 Kusadius.out[3314:147869] INFO: frame: 258, now state: play
+2015-05-17 12:53:32.518 Kusadius.out[3314:147869] INFO: frame: 259, now state: play
+2015-05-17 12:53:32.535 Kusadius.out[3314:147869] INFO: frame: 260, now state: play
+2015-05-17 12:53:32.550 Kusadius.out[3314:147869] INFO: frame: 261, now state: play
+2015-05-17 12:53:32.567 Kusadius.out[3314:147869] INFO: frame: 262, now state: play
+2015-05-17 12:53:32.583 Kusadius.out[3314:147869] INFO: frame: 263, now state: play
+2015-05-17 12:53:32.600 Kusadius.out[3314:147869] INFO: frame: 264, now state: play
+2015-05-17 12:53:32.617 Kusadius.out[3314:147869] INFO: frame: 265, now state: play
+2015-05-17 12:53:32.635 Kusadius.out[3314:147869] INFO: frame: 266, now state: play
+2015-05-17 12:53:32.652 Kusadius.out[3314:147869] INFO: frame: 267, now state: play
+2015-05-17 12:53:32.668 Kusadius.out[3314:147869] INFO: frame: 268, now state: play
+2015-05-17 12:53:32.684 Kusadius.out[3314:147869] INFO: frame: 269, now state: play
+2015-05-17 12:53:32.702 Kusadius.out[3314:147869] INFO: frame: 270, now state: play
+2015-05-17 12:53:32.719 Kusadius.out[3314:147869] INFO: frame: 271, now state: play
+2015-05-17 12:53:32.735 Kusadius.out[3314:147869] INFO: frame: 272, now state: play
+2015-05-17 12:53:32.752 Kusadius.out[3314:147869] INFO: frame: 273, now state: play
+2015-05-17 12:53:32.769 Kusadius.out[3314:147869] INFO: frame: 274, now state: play
+2015-05-17 12:53:32.786 Kusadius.out[3314:147869] INFO: frame: 275, now state: play

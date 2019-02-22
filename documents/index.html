@@ -1,0 +1,103 @@
+<html>
+   <head>
+      <meta http-equiv="Content-Type" content="text/html;CHARSET=UTF-8">
+      <title>Kusadius - Documents</title>
+   </head>
+   <body>
+      <div align=right>
+         南山大学大学院理工学研究科<br>
+         機械電子制御工学専攻<br>
+         熊澤 秀俊
+      </div>
+
+      <div align=center>
+         <h1>Kusadius</h1>
+         ネットワーク対戦型縦スクロールシューティング
+      </div>
+      <hr>
+      目次
+      <ol>
+         <li>概要</li>
+         <li>開発環境および使用したライブラリ</li>
+         <li>操作方法</li>
+         <li>ホストの指定と通信方式</li>
+         <li>サンプル画像</li>
+         <li>必要なパッケージ</li>
+         <li>素材について</li>
+      </ol>
+      <hr>
+      <h2>概要</h2>
+      <b>ジャンル</b><br>
+      ネットワーク対戦型縦スクロールシューティング<br>
+      <br>
+      <b>コード規模</b><br>
+      <img src=line_number.png alt="コード規模" width=640><br>
+      図1. コード規模<br>
+      <br>
+      <b>名前の由来と経緯</b><br>
+      友人（草薙氏）が「対戦，または協力ゲームといったら」にたいして「グラディウス」と答えたことから．におうからではない．
+      <hr>
+      <h2>開発環境および使用したライブラリ</h2>
+      <b>OS - Linux Mint 17 Qiana, Mac OS X yosemite</b><br>
+      当初研究用のLinux環境で開発していたが，Windowsへの移植作業に失敗しカーネルが破壊された．<br>
+      復旧の見込みが立たなかったので，予備の環境として構築済みだったMac OSに移行した．<br>
+      <br>
+      <b>H/W - CPU(Intel Core i5 2.6 GHz) RAM(8GB)</b><br>
+      Linuxはパーティションを切ってネイティブにインストールしていたので，ハードウェアは同じである．<br>
+      <br>
+      <b>ライブラリ - SDL(net,ttf,image) boost(1.55)</b><br>
+      当初の構想として，Windows，Mac，Linuxのクロス環境での通信対戦が目標だったので
+      <a href=https://www.libsdl.org target=_blank>Simple DirectMedia Layer</a>を採用した．<br>
+      他のエンジンとしてUnity，Unrealが候補であったがLinuxで利用できないことから不採用となった．<br>
+      boostは当初まったく使っていなかった（スレッドにはC++11の標準ライブラリを使っていた）が，Windowsに対応しているgccが古くまた32bit版であることからコンパイルできず，
+      boost::thread，boost::mutexを試したさいのなごり．<br>
+      <b>音声について</b><br>
+      なりません．<br>
+      <b>スキルについて</b><br>
+      ３番までしか実装されていません．なお１から順に弾数追加，妨害ユニット召喚，防御力UPとなっている．
+      <hr>
+      <h2>操作方法</h2>
+      <b>基本操作</b><br>
+      W - 上<br>
+      A - 左<br>
+      S - 下<br>
+      D - 右<br>
+      Space - 攻撃<br>
+      J - スキル使用<br>
+      <b>デバグ用操作</b><br>
+      O - スコア上昇<br>
+      N - スキル遷移<br>
+      Z - タイトル画面へ強制遷移<br>
+      X - 選択画面へ強制遷移<br>
+      C - プレイ画面へ強制遷移<br>
+      V - ゲームオーバ画面（未使用）へ強制遷移<br>
+      <hr>
+      <h2>ホストの指定と通信方式</h2>
+      通信ホストは実行フィアルと同じディレクトリにあるconnection.iniの一行目のみを読む．<br>
+      読み込めないばあいはlocalhostに設定される．<br>
+      インターネットレイヤはIPv4でのみ動作検証している．<br>
+      トランスポートレイヤのプロトコルはTCPを採用した．即時性の必要な通信であればUDPが基本であるが，
+      Kusadiusは直接撃ちあうゲームでないため信頼性を重視した採用となった．
+      <hr>
+      <h2>サンプル画像</h2>
+      <img src=title.png alt="タイトル画面" width=640><br>
+      図2. タイトル画面<br>
+      <img src=play.png alt="タイトル画面" width=640><br>
+      図3. プレイ画面<br>
+      <hr>
+      <h2>必要なパッケージ</h2>
+      boost, SDL2, SDL2_net, SDL2_image, SDL2_ttfが必要である．<br>
+      Ubuntuではapt-get install libboost1.55-all-dev libsdl2-dev libsdl2-image-dev libsdl2-ttf-dev libsdl2-net-devを管理者権限で実行すればよい．<br>
+      Mac OSではhomebrewなどで必要なライブラリを取得されたい．<br>
+      コンパイルにはgcc4.9以上が必要である．なお，makefileにはg++-4.9のコマンド名で記述されている．環境によっては編集が必要である．<br>
+      <hr>
+      <h2>素材について</h2>
+      以下のWEBサイトから取得した素材である．<br>
+      背景　http://backgrounds-free.com/，http://www1.ocn.ne.jp/~kajiji/<br>
+      アイテム，スキルなど　http://neko.moo.jp<br>
+      弾　http://dvdm.blog134.fc2.com<br>
+      アイコン　http://www.flaticon.com/authors/freepik<br>
+      キャラクタ　http://makapri.web.fc2.com<br>
+      キャラクタ（未使用）　http://tukuttenanbo.web.fc2.com/index.html<br>
+   </body>
+</html>

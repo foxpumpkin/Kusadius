@@ -1,0 +1,35 @@
+Control	src/Control.cpp	/^Control::Control(){$/
+Model	src/Model.cpp	/^Model::Model(){$/
+Object	src/Model.cpp	/^Object::Object( Type type){$/
+StateGameover	src/Model.cpp	/^StateGameover::~StateGameover(){$/
+StateInterface	src/Model.cpp	/^StateInterface::StateInterface(){$/
+StatePlay	src/Model.cpp	/^StatePlay::~StatePlay(){$/
+StateSelect	src/Model.cpp	/^StateSelect::~StateSelect(){$/
+StateTitle	src/Model.cpp	/^StateTitle::~StateTitle(){$/
+View	src/View.cpp	/^View::View(){$/
+bullet_factory	src/Model.cpp	/^void Model::bullet_factory(){$/
+control	src/Model.cpp	/^void StateTitle::control(){$/
+convertIDToRect	src/View.cpp	/^SDL_Rect View::convertIDToRect(unsigned int icon_i/
+convertIDToTexture	src/View.cpp	/^SDL_Texture *View::convertIDToTexture(unsigned int/
+cursor_factory	src/Model.cpp	/^void Model::cursor_factory(){$/
+detection	src/Model.cpp	/^void StateTitle::detection(){$/
+enemy_factory	src/Model.cpp	/^void Model::enemy_factory(){$/
+factory	src/Model.cpp	/^void StateTitle::factory(){$/
+getInstance	src/Control.cpp	/^Control &Control::getInstance(){$/
+getTextTexture	src/View.cpp	/^SDL_Texture* View::getTextTexture(const  string &m/
+initialize	src/View.cpp	/^bool View::initialize() {$/
+item_factory	src/Model.cpp	/^void Model::item_factory(){$/
+keychecker	src/Model.cpp	/^void Model::keychecker(){$/
+load	src/View.cpp	/^bool View::load(){$/
+move	src/Model.cpp	/^void StateTitle::move(){$/
+player_factory	src/Model.cpp	/^void Model::player_factory(){$/
+renderingTextOnWhite	src/View.cpp	/^void View::renderingTextOnWhite(const  string mess/
+stateswitcher	src/Model.cpp	/^void Model::stateswitcher(){$/
+switchState	src/Model.cpp	/^void Model::switchState( State state){$/
+test	src/Model.cpp	/^void Model::test(){$/
+text_factory	src/Model.cpp	/^void Model::text_factory(std::string message, Posi/
+update	src/Control.cpp	/^void Control::update(){$/
+updateGameover	src/View.cpp	/^void View::updateGameover(){$/
+updatePlay	src/View.cpp	/^void View::updatePlay(){$/
+updateSelect	src/View.cpp	/^void View::updateSelect(){$/
+updateTitle	src/View.cpp	/^void View::updateTitle(){$/
